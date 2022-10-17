@@ -1,0 +1,28 @@
+ol{
+background-color: yellow;
+}
+.par {
+color: green;
+}
+.impar {
+    text-transform: uppercase;
+}
+h3 {
+    color: red;
+}
+.list {
+    font-size: 20px;
+}
+.italico {
+    font-weight:bold;
+}
+.colorzul {
+    color: blue;
+}
+.java {
+    background-color: pink;
+}
+.borda:hover {
+    font-weight: bold;
+    color: green;
+}
