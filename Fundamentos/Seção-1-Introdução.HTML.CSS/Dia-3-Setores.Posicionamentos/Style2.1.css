@@ -1,0 +1,14 @@
+h1, p {
+    text-align: center;
+}
+
+.favoritesites:hover {
+background-color: blue;
+}
+
+.favoritesites:hover:active {
+    color: brown;
+}
+ol {
+    list-style: none;
+}
