@@ -1,0 +1,40 @@
+
+.cor1:hover {
+    border-style: solid;
+    border-color: red;
+   border-width: 10px;
+} 
+.cor2:hover {
+    border-style: solid;
+    border-color: yellow;
+   border-width: 10px;
+}
+.cor3:hover {
+    border-style: solid;
+    border-color: green;
+   border-width: 10px;
+}
+.cor3 {
+    width: 100px;
+    height: 100px;
+    margin-top: 60px
+}
+}
+.cor4:hover {
+    border-style: solid;
+    border-color: blue;
+   border-width: 10px;
+}
+.cor5:hover{
+    border-style: solid;
+    border-color: black;
+   border-width: 10px;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: chocolate;
+}
+.cor1, .cor2, .cor3 {
+    font-style: italic;
+}
