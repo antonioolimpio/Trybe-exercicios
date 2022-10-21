@@ -25,6 +25,7 @@
     margin-left: 60px;
     text-align: center;
     display: inline-block;
+    vertical-align: top
 }
 
 .img1,
@@ -43,7 +44,4 @@
 
 footer {
     background-color: black;
-}
-section {
-    text-align: center;
 }
